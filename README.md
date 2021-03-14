@@ -1,1 +1,1 @@
-# basi-seasons
+# basic-seasons
